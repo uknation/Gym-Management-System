@@ -13,6 +13,6 @@ The **Gym Management System** is a web-based application developed using **Djang
 ## 🛠 Tech Stack
 
 - **Backend**: Python, Django
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap
-- **Database**: SQLite (can be upgraded to MySQL/PostgreSQL)
+- **Frontend**: HTML
+- **Database**: SQLite
 - **Tools**: Django Admin Panel, Django Templates
